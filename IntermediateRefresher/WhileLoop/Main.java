@@ -118,7 +118,6 @@ public class Main {
       reverse = reverse*10+d;
           num=num/10;
         }
-        System.out.print(reverse);
-        
+        System.out.print(reverse);   
   }
 }
