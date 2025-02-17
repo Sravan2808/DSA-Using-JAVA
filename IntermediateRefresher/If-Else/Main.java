@@ -6,6 +6,7 @@ public class Main {
       //print whether the person is eligible 
       //to vote or not ?
 
+      
     //Age>=18 -> Eligible
 
       //Input : 20 ==> Eligible
