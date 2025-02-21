@@ -13,3 +13,5 @@
 
 - 👨‍💻 [*Patterns*](https://scaler-production-new.s3.ap-southeast-1.amazonaws.com/attachments/attachments/000/102/525/original/Jan___Pattern.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIDNNIRGHAQUQRWYA%2F20250219%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20250219T192006Z&X-Amz-Expires=561600&X-Amz-SignedHeaders=host&X-Amz-Signature=f9f75ae6a3aaa3f99f244c31036bcaff3dc654c76c61afdab307f177cee54bfd)
 >>>>>>> 2bb53b0542d940c88e0260cafc4357e01e86de5e
+
+- 👨‍💻 [*Functions*](https://scaler-production-new.s3.ap-southeast-1.amazonaws.com/attachments/attachments/000/103/110/original/Jan___Functions.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIDNNIRGHAQUQRWYA%2F20250221%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20250221T091830Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=92b49976b426316c6a51b4dd468be09a55cc5e3a968d00bffd36765f9145f02b)
