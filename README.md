@@ -23,3 +23,5 @@
 - 👨‍💻 [*Strings*](https://scaler-production-new.s3.ap-southeast-1.amazonaws.com/attachments/attachments/000/106/094/original/Jan___Strings_.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIDNNIRGHAQUQRWYA%2F20250227%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20250227T073144Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=ae5f0a957b2b799e6c0a35ff0e20739f02b5c18141de095d3c58f7b6828d0e56)
 
 - 👨‍💻 [*HashSet&HashMap*](https://scaler-production-new.s3.ap-southeast-1.amazonaws.com/attachments/attachments/000/106/904/original/Jan___HashMap___HashSet.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIDNNIRGHAQUQRWYA%2F20250302%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20250302T183524Z&X-Amz-Expires=561600&X-Amz-SignedHeaders=host&X-Amz-Signature=eb9a249228443ec48a2961e41b7a301ef74291c3d0868fce3fbe86619b88d924)
+
+- 👨‍💻 [*Intermediate DSA: Introduction to Problem Solving*](https://notability.com/n/zwNGLXWxAodGowOMVbSkg)
